@@ -56,6 +56,7 @@ function Nuke()
     nuke.scaleSpeed = 3.0;
     nuke.explosionDuration = 4.0;
     nuke.explosionTimer = 0.0;
+    nuke.color = "grey"
 
     nuke.Update = function (deltaTime)
     {

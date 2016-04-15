@@ -21,7 +21,7 @@ function GameObject(src)
         rotation: 0,
         radius: 5,
         width: 32,
-        height: 16,
+        height: 32,
         scale: 1,
         color: 'blue',
         isVisible: true,
