@@ -1,0 +1,88 @@
+﻿/*=============================================
+-----------------------------------
+Copyright (c) 2016 Nev Goodyer
+-----------------------------------
+@file: vector2.js
+@date: 01/04/2016
+@author: Nev Goodyer
+@brief: A Vector2 math library for making 2D
+animations
+===============================================*/
+body {
+}
+body {
+    /**/padding: 0;
+    margin: 0;              /*eliminates white space - I think!!*/   
+    /*overflow: hidden;*/   /*hides Scroll Bar on right*/   
+    /* do;igt;dr*/
+    /*background-color: rgb(165, 204, 130);*/ /*either RGB or Hex*/ 
+    background-color: #dbf1c2;          /*later one will be the actual*/ 
+}
+h1, h2, h3
+{
+    font-family: 'Times New Roman';
+        text-align: center;
+        color: #1932cc;
+        font-size: 50px;
+
+}
+h2
+{
+    font-family: 'Lucida Bright';
+        text-align: left;        
+        color: #370808;
+        font-size: 30px;
+}
+h3
+{
+    font-family: 'Lucida Bright';
+        text-align: left;        
+        /*color: #370808;*/
+        color: rgb(8, 118, 14);
+        font-size: 20px;
+}
+/*h1.imageHeader
+{
+    font-family: 'Adobe Arabic';
+        text-align: left;
+        
+        color: #ffd800;
+        font-size: 50px;
+
+}
+#resize-image {
+    max-width: 99%;
+    max-height: 99%;
+
+}
+
+
+#profile-image {
+    /*height: 40px;*/
+    height: 40px;
+    width: 60px;
+    /*background-size: contain;*/
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+@media screen and (min-width: 720px) {
+    #profile-image {
+        /**/
+    height: 200px;
+    width: 300px;
+    }
+}
+
+ul {
+    margin: 0 auto;
+    /*display: inline-block;*/
+    }
+
+ul li {
+    /*display: inline;*/
+}
+ol li {
+    /*display: inline;*/
+}*/
